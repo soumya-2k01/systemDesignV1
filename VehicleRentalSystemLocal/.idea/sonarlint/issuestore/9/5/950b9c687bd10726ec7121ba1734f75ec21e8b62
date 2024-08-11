@@ -1,0 +1,19 @@
+
+k
+java:S54115"(Use a primitive boolean expression here.(’üà8¡ÔïŸ…2J$c4806356-f047-43a3-8bc5-95edef5ce7b8
+k
+java:S54116"(Use a primitive boolean expression here.(Ûâ¤¥8¡ÔïŸ…2J$f8af4597-c25d-45d5-a181-b5af527df809
+ˆ	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(’üà8¤ù¼Šƒ2J$3f240f54-0c5d-4242-92fa-2505c4a0b01d
+ˆ	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(è†…ä8¤ù¼Šƒ2J$0f3f8894-e0ea-48c9-a332-4e76a1369d38
+ˆ	java:S1124"FDefine and throw a dedicated exception instead of using a generic one.(‘Ñâ8¤ù¼Šƒ2J$0d1ff3c2-7bd9-446d-b2bb-6f00e73ef2c8
+	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(§“Ëÿÿÿÿÿ8¤ù¼Šƒ2J$9c4ea0e2-2596-4754-a130-c73a6bf143d7
+ˆ	java:S112J"FDefine and throw a dedicated exception instead of using a generic one.(ƒÚÌñ8¤ù¼Šƒ2J$c145b9f6-cba9-4c87-af14-2116d193f47c
+	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(«ÙÇ¨øÿÿÿÿ8¤ù¼Šƒ2J$adc9e7b5-cdeb-4dc2-a4aa-d19f0595987d
+	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(ã¿½Éøÿÿÿÿ8¥ÔïŸ…2J$e86f6f4b-ad27-4507-aead-f39a91603410
+	java:S112Q"FDefine and throw a dedicated exception instead of using a generic one.(Å¿•ıÿÿÿÿ8¥ÔïŸ…2J$579ff4d9-7ee1-4582-946a-837fa3866dff
+	java:S112M"FDefine and throw a dedicated exception instead of using a generic one.(úÒÌ¸ùÿÿÿÿ8¥ÔïŸ…2J$fce9372d-ef46-4b61-97b1-c29a74699d91
+m	java:S106?"+Replace this use of System.out by a logger.(“¾ãí8¨ù¼Šƒ2J$b8ffbb10-55a6-44b6-bcca-963d4307e7fd
+m	java:S106H"+Replace this use of System.out by a logger.(§™¯8©ù¼Šƒ2J$16cc5ca5-a8c0-4f11-bb02-fef38e63f13a
+r	java:S106W"+Replace this use of System.out by a logger.(çãêŸúÿÿÿÿ8©ù¼Šƒ2J$6a7b8ea4-0691-45f6-829f-0fcf783cfe2b
+ˆ
+java:S1128"ERemove this unused import 'org.rental.payment.HourlyPricingStrategy'.(åÃ´È8¹ÔïŸ…2J$fef32c2f-c762-43cf-9720-9f6f43bfbbf0
