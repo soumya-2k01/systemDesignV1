@@ -1,0 +1,30 @@
+Functionalities:
+    1. add users to the system
+    2. allow users to add friends among the users
+    3. allow users to create group and add friends
+    4. add expense in the group and split it evenly or unevenly
+    5. relect owe/getback per friend and reflect total owe/getsback
+
+Api's
+    1. add/user -
+    2. delete/user -
+    3. add/friends -
+    4. group/create
+    5. group/addFriends
+    6. group/removeFriends
+    11. group/getFriends
+    7. group/delete
+    8. group/view/ -> can view owes/getback on friend level inside a group
+    8. expense/createExpense
+    9. expense/deleteExpense
+    10. group/settleUp/{user}
+
+Entities
+    1. user - id, name, list<users> (friends), BalanceSheet
+    2. group - id, name, list<users> (members), list<expenses>
+    3. expense - id, title, amount, splitType, splitAmong, paidBy(user), groupId
+    4. splitType - EQUAL, UNEQUAL, PERCENT
+    5. balanceSheet - id, Map<> owesTo, Map<> getsFrom
+
+
+

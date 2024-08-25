@@ -1,0 +1,8 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(É¿¥‘ıÿÿÿÿ8ø¾À˜2J$1b75240c-b965-456d-9aa0-715964b8f326
+ˆ	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Á²‚8‚ø¾À˜2J$b09aeb86-1767-4998-8046-ccbe909ee280
+ˆ	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ìÍ Ø8‚ø¾À˜2J$b50626b8-672a-4c01-a996-18502ee2fad1
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8‚ø¾À˜2J$6d2c2eaa-f4e3-44ba-9d8e-fa9c7aa0925f
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ƒø¾À˜2J$7f96dd84-32f8-448b-a8ea-d73fe27d5766

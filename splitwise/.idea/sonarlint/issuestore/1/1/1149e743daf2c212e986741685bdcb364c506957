@@ -1,0 +1,13 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Ûèóûÿÿÿÿ8´ù±Á˜2J$23319170-c61a-4315-b36d-279c7e4e66af
+r
+java:S3740"/Provide the parametrized type for this generic.(¤Æç¥8´ù±Á˜2J$b5adfa94-9011-449b-ac5e-68782dd60c31
+r
+java:S3740"/Provide the parametrized type for this generic.(»®æ·8´ù±Á˜2J$5414d399-d668-403e-81b0-2b764d8859a0
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8µù±Á˜2J$e8fee6db-9f76-4ff9-839d-81f558d8cc8d
+X	java:S125"<This block of commented-out lines of code should be removed.(æÛÙ³8ãŠðÁ˜2
+’
+java:S1128"JRemove this unused import 'com.app.splitwise.Service.BalanceSheetService'.(®¤³èúÿÿÿÿ8˜Ð³Á˜2J$a721b6fa-9a7b-4802-b664-bafe57fb8add
+b
+java:S1128"ERemove this unused import 'com.app.splitwise.manager.ExpenseManager'.(­øÀî8åŠðÁ˜2

@@ -1,0 +1,5 @@
+
+“
+java:S1206"PThis class overrides "hashCode()" and should therefore also override "equals()".(ðÜþŠ8Ý…©¿•2J$a9b16d6d-e7fc-4ac8-a754-1a15119b035d
+
+java:S1128">Remove this unused import 'com.app.splitwise.split.SplitType'.(‡æ«’8ûÅ€¨˜2J$b6660b85-0960-40d2-a871-5baba29a3ac5
