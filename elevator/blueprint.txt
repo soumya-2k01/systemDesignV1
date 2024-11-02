@@ -1,0 +1,13 @@
+Functional Requirements
+1. User press a button on floor x.
+2. Lift stops at floor x and door opens.
+3. Presses floor no. y inside lift, door closes.
+4. Lift moves to floor y and opens.
+5. Lift serves FCFS strategy but picks up users en route.
+
+Entities
+1. Elevator has inside buttons, currentFloor, Status -> MOVING_UP, MOVING_DOWN, IDLE
+2. Outside buttons -> UP, DOWN, floor number, state -> PRESSED or NOT
+3. inside buttons -> floor number
+4. Floor -> has outside buttons, floor Number,
+5. Building -> has floor
