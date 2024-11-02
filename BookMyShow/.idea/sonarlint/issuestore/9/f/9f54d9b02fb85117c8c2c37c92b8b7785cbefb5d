@@ -1,0 +1,31 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿ÔòÔıÿÿÿÿ8Ê¾àù®2J$4b968783-9289-4cb7-8dcb-ff7bb28dd332
+y
+java:S1854"6Remove this useless assignment to local variable "s2".(ëáÅ¼8Î¾àù®2J$2c102ecb-cfae-4645-a5ec-4a81ff7c27e9
+~
+java:S1854"6Remove this useless assignment to local variable "m5".(ÚÍùäúÿÿÿÿ8Î¾àù®2J$03b583de-b417-4c13-8608-32c5d4bb8a2c
+~
+java:S1854"6Remove this useless assignment to local variable "m4".(­Òş´şÿÿÿÿ8Î¾àù®2J$ab06b3cd-7ffc-4127-a35e-8cf45b50e67e
+y
+java:S1854"6Remove this useless assignment to local variable "m3".(µ£™â8Î¾àù®2J$dcae04e8-f023-4696-b3e4-97fa70c19a62
+~
+java:S1854"6Remove this useless assignment to local variable "t3".(–¹Æîûÿÿÿÿ8Î¾àù®2J$fe775f45-bc88-456a-97fa-070d05ef40b2
+~
+java:S1854"6Remove this useless assignment to local variable "t2".(€Ñ€ëûÿÿÿÿ8Î¾àù®2J$83e49817-3de3-4ca7-b716-d44e8a2474f7
+o
+java:S1481"'Remove this unused "t2" local variable.(€Ñ€ëûÿÿÿÿ8Î¾àù®2J$af8e0c62-8bd4-48a7-8d76-05f1f790be1b
+o
+java:S1481"'Remove this unused "t3" local variable.(–¹Æîûÿÿÿÿ8Î¾àù®2J$cddbd213-bb3f-4c94-8a75-b9d488bf521c
+j
+java:S1481"'Remove this unused "m3" local variable.(µ£™â8Ï¾àù®2J$b44bc10e-0814-48cd-8032-0c6ea1771f9d
+o
+java:S1481"'Remove this unused "m4" local variable.(­Òş´şÿÿÿÿ8Ï¾àù®2J$fc62d890-524a-4677-bb27-6d7dca46b0ba
+o
+java:S1481"'Remove this unused "m5" local variable.(ÚÍùäúÿÿÿÿ8Ï¾àù®2J$fe5cfb0e-c7f5-4e73-825f-ba2492162f32
+j
+java:S1481"'Remove this unused "s2" local variable.(ëáÅ¼8Ï¾àù®2J$a8a927b9-b1b6-48c3-b2dd-69da41c2c641
+m	java:S106%"+Replace this use of System.out by a logger.(òª»¥8±Ïáù®2J$9011df1c-5586-4d2d-8016-b59a065f6ac4
+H
+java:S1128"+Remove this unused import 'java.awt.print'.(ÏÁ€…8Ë©âù®2
+]
+java:S1128";Remove this unused import 'org.bookMyShow.entity.TimeSlot'.(³‡ßªıÿÿÿÿ8Ë©âù®2
