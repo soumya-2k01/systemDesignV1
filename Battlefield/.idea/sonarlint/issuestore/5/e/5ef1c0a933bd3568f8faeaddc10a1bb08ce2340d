@@ -1,0 +1,15 @@
+
+€
+java:S1854"8Remove this useless assignment to local variable "grid".(¨˜ ¨ıÿÿÿÿ8Ÿ¿ãê°2J$15783bd1-477a-49cd-abde-766f18a3733c
+r	java:S106"+Replace this use of System.out by a logger.(œ„Ê»øÿÿÿÿ8Ÿ¿ãê°2J$aead04c3-2bfa-4637-a71a-06c5ad2472de
+q
+java:S1481")Remove this unused "grid" local variable.(¨˜ ¨ıÿÿÿÿ8 ¿ãê°2J$ff5af3db-d8b1-4873-aee0-65d840880497
+m	java:S106"+Replace this use of System.out by a logger.(ß‘ûÁ8 ¿ãê°2J$1c9720de-80e9-4c39-984a-cc6e5791f697
+€
+java:S18543"8Remove this useless assignment to local variable "ship".(õ‡äíøÿÿÿÿ8¡¿ãê°2J$6a26f55a-fa97-4411-b704-adc9b96ded82
+|
+java:S18542"9Remove this useless assignment to local variable "cords".(ÎÜÒ÷8¡¿ãê°2J$291c04c5-3121-4886-abf7-2e5d1d911cf9
+m
+java:S14812"*Remove this unused "cords" local variable.(ÎÜÒ÷8¡¿ãê°2J$3c2f3755-f89c-4178-bfd1-c65b0f587f01
+q
+java:S14813")Remove this unused "ship" local variable.(õ‡äíøÿÿÿÿ8¡¿ãê°2J$e221c505-c600-4205-ba5e-ed336d2b1de2
