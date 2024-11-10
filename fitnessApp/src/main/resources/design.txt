@@ -1,0 +1,34 @@
+User
+    name
+    Tier
+
+
+Tier
+    GOLD, ...
+    limit as well
+
+Classes
+    classType -> Yoga, Dance, Gym
+    capacity
+    timeSlot
+
+Booking
+1. user can book if <capacity
+2. User can cancel booking if timeSlot > curTime+30 mintues
+3. User can book if booking limit allows based on tier
+
+
+AdminService to create, schedule, cancel
+
+waitList queue
+
+
+Booking
+    User
+    Class
+    Status -> BOOKED, CANCELLED
+
+
+
+
+

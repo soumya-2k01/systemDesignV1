@@ -1,0 +1,21 @@
+
+}
+java:S1854 ":Remove this useless assignment to local variable "u1pass".(Èš¿¥8—³±ˆ±2J$9bb5b62c-d5f4-4137-a38d-4892eb8c708f
+„
+java:S1854"<Remove this useless assignment to local variable "session2".(ò«ß·øÿÿÿÿ8˜³±ˆ±2J$e513ad87-5258-4217-92a0-3ccb65dae7c1
+{
+java:S1854"9Remove this useless assignment to local variable "admin".(¨Ì)8˜³±ˆ±2J$63f8c89e-0214-4e9b-af08-838d5d2d63c0
+l
+java:S1481"*Remove this unused "admin" local variable.(¨Ì)8™³±ˆ±2J$389b8776-2b6e-4aaa-b2d9-205359bef9fd
+{
+java:S3252"3Use static access with "java.util.Date" for "from".(ÎÕãøÿÿÿÿ8›³±ˆ±2J$de4a4521-749a-43ef-9816-f8c41a3cf95f
+{
+java:S3252"3Use static access with "java.util.Date" for "from".(Ì¦ðÿÿÿÿÿÿ8œ³±ˆ±2J$3308dd89-0db2-4a5e-86af-2bd0106c4246
+{
+java:S3252"3Use static access with "java.util.Date" for "from".(ò«ß·øÿÿÿÿ8 ³±ˆ±2J$7ed8825f-f10a-45d2-a28c-a42fcd3d6e4d
+{
+java:S3252"3Use static access with "java.util.Date" for "from".(Ì¦ðÿÿÿÿÿÿ8 ³±ˆ±2J$7e953161-0d41-4b50-a1a4-18854df2c0bb
+u
+java:S1481"-Remove this unused "session2" local variable.(ò«ß·øÿÿÿÿ8¡³±ˆ±2J$f47c38ae-01c5-48a1-9547-015963ba4abc
+n
+java:S1481 "+Remove this unused "u1pass" local variable.(Èš¿¥8¡³±ˆ±2J$9a522006-5b3e-4f5a-bbb1-f39a6b1b11d5
